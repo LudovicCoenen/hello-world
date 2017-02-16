@@ -1,2 +1,4 @@
 # hello-world
-start github training
+Start github training.
+The start of any programming language.
+Start reading here!
